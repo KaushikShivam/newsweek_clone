@@ -66,14 +66,14 @@ h4 {
 
 .card-text-custom {
   color: #333;
-  font-size: 1rem;
-  font-weight: 400;
+  /* font-size: 1rem; */
+  font-weight: 200;
   line-height: 1.2
 }
 
 .card-text-custom-bold {
   color: #555;
-  font-size: .9rem;
+  /* font-size: .9rem; */
   font-weight: 700;
   line-height: 1.2;
 }
