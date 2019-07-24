@@ -120,3 +120,17 @@ html {
   padding: 5px 1rem;
   font-weight: bold;
 }
+
+.overlay-text--icon {
+  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png);
+  display: inline-block;
+  position: absolute;
+  bottom:0; 
+  color: #f72210;
+  font-weight: bold;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 4rem;
+  height: 3rem;
+}
+
