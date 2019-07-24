@@ -135,8 +135,27 @@ html {
 }
 
 /* section header */
+.section-header {
+  color: #f72210;
+  text-decoration: none;
+}
 
 .section-header a {
   color: #f72210;
   font-size: 1.5rem;
+  text-decoration: none;
+}
+
+/* custom button/img */
+.btn-nw-custom {
+  background-color: #f72210;
+}
+
+.card-img-nv {
+  height: 100%;
+  /* width: 100%; */
+}
+
+.img-thumb-height {
+  height: 275px;
 }
