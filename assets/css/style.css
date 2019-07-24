@@ -135,22 +135,6 @@ html {
 }
 
 /* footer */
-/* .footer__header {
-  display: flex;
-  justify-content: space-between
-}
-
-.logo {
-  display: flex;
-  align-items: center;  
-}
-
-.logo p {
-  margin: 0;
-  padding-bottom:2px;
-  align-self: flex-end
-} */
-
 .footer__header img {
   width: 15rem;
 }
