@@ -134,3 +134,9 @@ html {
   height: 3rem;
 }
 
+/* section header */
+
+.section-header a {
+  color: #f72210;
+  font-size: 1.5rem;
+}
