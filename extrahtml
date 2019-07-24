@@ -1,0 +1,513 @@
+<section class="row px-lg-3 pt-4">
+
+        <!-- featured stories -->
+        <div class="col order-1">
+          <!-- //This is where featured stories will go -->
+          <h5 class="h6 make-uppercase font-weight-bold">Featured Stories</h5>
+
+          <div class="card border-0 my-2">
+            <img
+              src="https://d.newsweek.com/en/full/1511786/newsweek-momentum-awards-2019.png?w=767&h=512&q=90&f=45bc5e299016e2eb7ecdeb46b05db197"
+              class="card-img-top rounded-0" alt="News week momentum">
+            <div class="card-body p-0 my-2">
+              <h3 class="card-title mb-2"><a href="#">The Newsweek Momentum Awards</a></h3>
+              <p class="card-text card-text-custom">The Newsweek Momentum Awards will recognize five individuals
+                around
+                the globe, as
+                well as one city, which will be chosen as the "smartest city in the world."</p>
+            </div>
+          </div>
+
+
+          <div class="card border-0 my-2">
+            <img
+              src="https://d.newsweek.com/en/full/1514085/carrie-lam-hong-kong-china-taiwan.jpg?w=767&h=512&q=90&f=3a4124af370252948785bbf7e90e0009"
+              class="card-img-top rounded-0" alt="News week momentum">
+            <div class="card-body p-0 my-2">
+              <h3 class="card-title mb-2"><a href="#">As U.S. and Iran Tensions Get Worse, Iraq Steps In and Tries
+                  to
+                  Help</a></h3>
+              <p class="card-text card-text-custom">Iraqi Prime Minister Adel Abdul-Mahdi traveled to Tehran to meet
+                with Iranian
+                President Hassan Rouhani in hopes of finding "ways to defuse the current crisis" between the U.S.
+                and
+                Iran.</p>
+            </div>
+          </div>
+
+          <div class="card border-0 my-2">
+            <img
+              src="https://d.newsweek.com/en/full/1514058/ice.jpg?w=767&h=512&q=90&f=9731f2a81ea8b26ccc6675bc48ab876c"
+              class="card-img-top rounded-0" alt="News week momentum">
+            <div class="card-body p-0 my-2">
+              <h3 class="card-title mb-2"><a href="#">ICE Arrest Thwarted After Neighbors Form Human Chain Around
+                  Father And Son</a></h3>
+              <p class="card-text card-text-custom">"The family don't bother nobody, they work every day, they come
+                home, the kids jump
+                on their trampoline, it's just a community," one neighbor said.</p>
+            </div>
+          </div>
+
+          <div class="card border-0 my-2">
+            <img
+              src="https://d.newsweek.com/en/full/1511669/spot-im-logo.png?w=767&h=512&q=90&f=b62155420f668b2e7d357abadb61a7be"
+              class="card-img-top rounded-0" alt="News week momentum">
+            <div class="card-body p-0 my-2">
+              <h3 class="card-title mb-2"><a href="#">To Our Readers:</a></h3>
+              <p class="card-text card-text-custom">We always want to hear from you, and to make that easier, we've
+                implemented a new
+                commenting forum. Take a look at the bottom of Newsweek articles. Spot.IM is a tool that helps
+                readers respond to our stories and communicate with one another—and with us. Ask us a question,
+                embed a GIF, point out a mistake. Be civil and respectful, please. And most important: Be in touch.
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Top stories -->
+        <div class="col order-0">
+
+          <h5 class="h6 make-uppercase font-weight-bold">Top Story</h5>
+
+          <div class="card border-0 my-2">
+            <img
+              src="https://d.newsweek.com/en/full/1514068/boris-johnson-uk-pm-trump-friend.jpg?w=591&h=364&q=90&f=69544f385c921eec7352869920158999"
+              class="card-img-top rounded-0" alt="News week momentum">
+            <div class="card-body p-0 my-2">
+              <h3 class="card-title mb-2 mb-2"><a href="#">Boris Johnson to Take Over as U.K. Prime Minister</a>
+              </h3>
+              <p class="card-text card-text-custom">The Conservative Party chose Johnson as its new leader, meaning
+                he
+                will succeed Prime
+                Minister Theresa May.</p>
+            </div>
+          </div>
+
+          <h5 class="h6 make-uppercase font-weight-bold mt-3">More Stories</h5>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1513955/afghanistan-car-bomb-attack.jpg?w=135&h=90&f=0ee5517799604ff2a3789a6c66887fd8"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Trump: I Could Win the Afghanistan War 'in a Week' but Don't
+                      Want
+                      to Kill '10
+                      Million'</a></h4>
+                  <p class="card-text card-text-custom">"Afghanistan could be wiped off the face of the Earth. I
+                    don't
+                    want to go that
+                    route," President Donald Trump said.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1513838/candida-auris-fungi-fungus-stock-getty.jpg?w=135&h=90&f=09c43508367d09edb7da573b11586e96"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Global Warming May Lead to Diseases We Don't Know About,
+                      Scientists
+                      Warn</a></h4>
+                  <p class="card-text card-text-custom">A CDC official warned the fungus "is behaving in unexpected
+                    and
+                    concerning ways, causing severe disease in countries across the globe, including the United
+                    States."
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1514039/north-korea-submarine-kim-jong-un-icbm.jpg?w=135&h=90&f=4bee94d4999822d52d4583481e3f7fed"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Photos Show Kim Jong Un Inspecting New Submarine, Deployment
+                      'Near
+                      at Hand'</a></h4>
+                  <p class="card-text card-text-custom">Reports suggested the new submarine may have been designed
+                    to
+                    carry and launch ballistic missiles, which could in future be tipped with nuclear warheads.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1512958/boris-johnson-new-york-city-us-citizen.jpg?w=135&h=90&f=863620b9634e130128c23299b781dc87"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Britain's New Prime Minister Was a U.S. Citizen for Half a
+                      Century</a></h4>
+                  <p class="card-text card-text-custom">Boris Johnson, the Conservative Party leader and new U.K.
+                    prime
+                    minister, renounced his American citizenship after a dispute with the IRS.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1514047/duterte-philippines-death-penalty-corruption-drugs-war.jpg?w=135&h=90&f=2beee91c41aa2c1ce1aff53821f68796"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Duterte Wants Death Penalty for Corruption: 'Blood That We Need
+                      to
+                      Cleanse'</a></h4>
+                  <p class="card-text card-text-custom">Philippines President Rodrigo Duterte called on Congress to
+                    reinstate the death penalty for "heinous" drug crimes and corruption in his country.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1514051/museum-fire.png?w=135&h=90&f=d3ef75c84f52059e69ce74c580caf7aa"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Museum Fire Mandatory Evacuations: Arizona Blaze Spreads Beyond
+                      1,000 Acres</a></h4>
+                  <p class="card-text card-text-custom">The city of Flagstaff and Coconino County have declared a
+                    state
+                    of emergency due to the impacts of the fire.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1513855/carrie-lam-hong-kong-violence-subway.jpg?w=135&h=90&f=08b5b424779ccae353b51d06be118a33"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">Hong Kong Leader Criticizes Both Sides After Mob Attack</a>
+                  </h4>
+                  <p class="card-text card-text-custom">At least 45 people were injured, one critically, in the
+                    attack
+                    allegedly targeting anti-government protesters. Activists and lawmakers have accused the police
+                    of
+                    standing by as the violence occurred.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="card border-left-0 border-right-0 border-bottom-0 pt-3 mt-3 rounded-0">
+            <div class="row no-gutters">
+              <div class="col-6 col-md-3 col-sm-4">
+                <img
+                  src="https://d.newsweek.com/en/full/1514015/trump-transfer-nuclear-tech-saudi-arabia-ok.jpg?w=135&h=90&f=435ca1b4393d5e18bef6a46e641ac397"
+                  class="card-img rounded-0" alt="More stories">
+              </div>
+              <div class="col-6 col-md-9 col-sm-8 pl-3">
+                <div class="card-body p-0">
+                  <h4 class="card-title"><a href="#">GOP: 'No Impropriety' by Trump in Transfer of Nuclear Tech to
+                      Saudi
+                      Arabia</a></h4>
+                  <p class="card-text card-text-custom">Democrats have previously alleged the administration may
+                    have
+                    broken federal laws and guidelines in its numerous transfers of U.S. nuclear technology to the
+                    Middle Eastern country.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+        <!-- opinion -->
+        <div class="col order-2">
+          <!-- OPINION -->
+          <section>
+            <h5 class="h6 make-uppercase font-weight-bold">Opinion</h5>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/109962/seth-abramson.png?w=63&h=63&f=8fd3c628b9cf33a25661461bc671603e"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0 pl-sm-3">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">
+                        The Mueller Report's Biggest Open Secret</a></h4>
+                    <p class="card-text card-text-custom-bold">BY SETH ABRAMSON</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/97976/robert-reich.png?w=63&h=63&f=297351a03eaa549128026042394c9580"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0 pl-sm-3">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">
+                        Of Course Trump Is Racist—Too Bad Wall Street Doesn't Care</a></h4>
+                    <p class="card-text card-text-custom-bold">BY ROBERT REICH</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513932/amy-gottlieb.png?w=63&h=63&f=99d164c438d98605ba79723b61011803"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0 pl-sm-3">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">
+                        ICE Is After My Activist Husband. But We Won't Live in Fear | Opinion</a></h4>
+                    <p class="card-text card-text-custom-bold">BY AMY GOTTLIEB</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/83499/newt-gingrich.png?w=63&h=63&l=48&t=55&f=d8b4f8dfaad8a5f0f71bffcc6c0d6a77"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">
+                        Trump's Plan to Develop the Moon and Mars Will Change Humanity's Future
+                      </a></h4>
+                    <p class="card-text card-text-custom-bold">BY NEWT GINGRICH</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513927/alissa-wise.png?w=63&h=63&f=23ee676b7aec8716e53bb500876074b1"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0 pl-sm-3">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">I'm a Rabbi, and I'm Done With Trump
+                        Using My People to Cover Up His Racism</a></h4>
+                    <p class="card-text card-text-custom-bold">BY ALISSA WISE</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 border-bottom-0 rounded-0 pb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-2 col-sm-1 col-lg-3 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513969/andrea-j-prasow.png?w=63&h=63&f=719ecc2b920c246289327a3a585d17d3"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-10 col-sm-11 col-lg-9">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">If Trump Won't Stand Up to the Saudi
+                        Crown Prince, Congress Must</a></h4>
+                    <p class="card-text card-text-custom-bold">BY ANDREA J. PRASOW</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="mt-4">
+
+            <h5 class="h6 make-uppercase font-weight-bold mb-3">Latest News</h5>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1514135/who-kimba-white-lion.png?w=397&h=265&f=a2c3e889a25ddaa53995c79591c771f7"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Who is 'Kimba the White Lion'?</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1514055/us-cuba-embassy.jpg?w=397&h=265&f=1fd2b67527bab662d509dbf6051f791e"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Cuba Audio Attack: Exposed Staff Had
+                        Brain Matter Alterations, Study Finds</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513497/wildlife-nature-roe-deer-stock-getty.jpg?w=397&h=265&f=4831d26894a8d64f1dc332a7b805d032"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Climate Change Puts Deer, Sparrows at
+                        'Substantial Extinction Risk'</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513852/cannabis-weed-marijuana-joint-drugs-stock-getty.jpg?w=397&h=265&f=5f7549f601b35cc23ff40ae7625a1710"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Using Cannabis During Pregnancy Linked
+                        to FASD-like Symptoms</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1514137/okjokull-glacier.gif?w=397&h=265&f=daea9d2051de56ffa4899a2c2c4012c7"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Iceland to Hold a Memorial for Its First
+                        Glacier Lost to Climate Change</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1514111/former-ohio-judge-tracie-hunter.jpg?w=397&h=265&f=aa3b55ec1ff8b3f46ddc05b9ae997724"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Ohio Cops Grab Former Judge in
+                        Courtroom, Drag Her to Jail</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1514113/yuval-harari-donald-trump-vladimir-putin-russia.jpg?w=397&h=265&f=9126e4f0ca24f4bb512b95fcc042ce96"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Author Harari Removes Putin Criticism
+                        From Russian Translation of New Book</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border-left-0 border-right-0 border-top-0 border-bottom-0 rounded-0 pb-2 mb-2 mb-2">
+              <div class="row no-gutters">
+                <div class="col-7 col-sm-4 col-md-2 col-lg-5 pr-3">
+                  <img
+                    src="https://d.newsweek.com/en/full/1513852/cannabis-weed-marijuana-joint-drugs-stock-getty.jpg?w=397&h=265&f=5f7549f601b35cc23ff40ae7625a1710"
+                    class="card-img rounded-0" alt="More stories">
+                </div>
+                <div class="col-5 col-lg-7 col-md-10 col-sm-8 col-sm-8 pl-sm-3">
+                  <div class="card-body p-0">
+                    <h4 class="card-title"><a class="card-link-custom" href="#">Using Cannabis During Pregnancy Linked
+                        to FASD-like Symptoms</a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- NEWS LETTER -->
+            <!-- FIXME: Adjust the padding -->
+            <div class="row justify-content-center">
+              <div class="card bg-light py-3 my-2 px-3">
+                <div class="card-body">
+                  <h4 class="card-title"><a class="card-link-custom" href="#"> SIGN UP FOR OUR NEWSLETTER</a></h4>
+                  <a href="#" class="btn btn-secondary rounded-0 make-uppercase h4 text-white">SIGN UP ></a>
+                  <p class="card-text"><a class="text-dark font-weight-bold" href="#">Update your preferences »</a></p>
+                </div>
+              </div>
+            </div>
+
+          </section>
+
+        </div>
+
+      </section>
