@@ -121,6 +121,14 @@ html {
 }
 
 /* custom button/img */
+.nw-logo {
+  background-color: #f72210;
+}
+
+.nw-logo img {
+  width: 30%;
+}
+
 .btn-nw-custom {
   background-color: #f72210;
 }
