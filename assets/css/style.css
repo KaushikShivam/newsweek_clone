@@ -127,7 +127,6 @@ html {
 
 .card-img-nv {
   height: 100%;
-  /* width: 100%; */
 }
 
 .img-thumb-height {
@@ -137,6 +136,16 @@ html {
 .card-img-custom {
   width: 63px;
   height: 63px;
+}
+
+.header-custom a {
+  text-transform: uppercase;
+  color: #f72210 !important;
+}
+
+.header-custom>span {
+  background-color: #f72210;
+  color: white;
 }
 
 /* footer */
