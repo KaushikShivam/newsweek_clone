@@ -7,11 +7,9 @@
 - [Installation](#installation)
 - [Contact](#contact)
 
+## Description
 [Newsweek](https://rawcdn.githack.com/KaushikShivam/newsweek_clone/51d2d7324bedb412803bac52d7d6c6306649d6e4/index.html) This is [The News week page clone](https://www.newsweek.com/) project that I worked on for Microverse. It uses HTML5 and CSS3,
 It uses CSS flexbox, 12 col grids and Bootstrap and support all major device widths.
-
-
-## Description
 
 
 ## Installation
